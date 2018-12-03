@@ -36,11 +36,11 @@
 
                 <key>bundle-identifier</key>
 
-                <string>com.quinn.ufenjia</string>
+                <string>com.quinn.simufj</string>
 
                 <key>bundle-version</key>
 
-                <string>1.0</string>
+                <string>1.0.1</string>
 
                 <key>kind</key>
 
